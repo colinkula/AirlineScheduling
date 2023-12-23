@@ -1,3 +1,14 @@
+/*
+The CrewApp class is the core component of an airline crew scheduling
+application. It manages information about flights, crews, and unique flight
+locations. The class includes methods for printing menus and various scheduling
+related information, as well as functions for importing crew and flight data
+from files. The class is designed to provide a user-friendly interface for 
+interacting with and managing crew schedules.
+
+Copyright by Colin Kula, 11/15/2023
+*/
+
 #ifndef CREWAPP_H
 #define CREWAPP_H
 #include <string>

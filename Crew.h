@@ -1,3 +1,12 @@
+/*
+The Crew class manages airline crew members' names and schedules. It includes
+constructors for easy initialization and provides methods to set and retrieve
+this information. The class is designed for use in an airline scheduling
+application.
+
+Copyright by Colin Kula, 11/15/2023
+*/
+
 #ifndef CREW_H
 #define CREW_H
 #include<string>
@@ -13,4 +22,4 @@ class Crew {
         std::string getName();
         std::string getSchedule();
 };
-#endif  // CREW_H_
+#endif  // CREW_H
